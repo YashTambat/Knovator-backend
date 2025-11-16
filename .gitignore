@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# PM2 runtime files
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: TypeScript build info
+*.tsbuildinfo
+
+# Debug
